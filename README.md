@@ -1,4 +1,4 @@
-In the project directory, run the folllowing commands:
+If you haven't already, [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable). Then, in the project directory, run the folllowing commands:
 
 ### `yarn install`
 
