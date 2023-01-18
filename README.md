@@ -1,3 +1,5 @@
+Running Tic-Tac-Toe page: https://stanford.edu/~youngch/
+
 If you haven't already, [install Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable). Then, in the project directory, run the folllowing commands:
 
 ### `yarn install`
